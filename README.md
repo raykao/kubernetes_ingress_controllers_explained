@@ -9,4 +9,4 @@ Kubernetes ingress controllers are an amazing service on K8s that allows you to 
 
 ## Explanation
 
-- Inbound
+![Ingress Diagram](images/ingress_diagram.png)
